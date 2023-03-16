@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "profileR"]
+	path = profileR
+	url = https://github.com/cddesja/profiler
+	shallow = true
+	registered = true
